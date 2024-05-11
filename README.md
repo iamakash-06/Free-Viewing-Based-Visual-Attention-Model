@@ -8,3 +8,13 @@ The objective of this project is to develop a Free Viewing-Based Visual Attentio
 # Architecture
 A high level visual representation of the overall architecture of the project is shown below.
 ![Architecture](Architecture_Diagram.png)
+
+# Contributors
+- **Akash S**
+- **Abinaya S**
+- **Aparna A**
+- **Dabburi Rajesh**
+
+#### You can view the above project's results and analysis as a dashboard in the following links
+- https://fvb-vam-overall.streamlit.app/ - **For Overall Analysis**
+- https://fvb-vam-individual.streamlit.app/ - **For Individual Analysis**
