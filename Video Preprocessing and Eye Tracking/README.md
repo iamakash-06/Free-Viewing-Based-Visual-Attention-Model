@@ -1,0 +1,2 @@
+# Eye Tracking
+This folder consists of the code of converting the video with heatmap overlay to flat file (CSV) consisting of all the gaze points. The code is written in Python and uses OpenCV for the image processing part. The code is divided into two parts: the first part is for preprocessing the video and the second part is for extracting the gaze points from the video using the Hough Transform algorithm.

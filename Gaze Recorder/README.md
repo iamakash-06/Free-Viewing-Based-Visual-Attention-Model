@@ -1,4 +1,6 @@
-# Gaze Recorder
+# Eye Tracking with Gaze Recorder
+This folder contains the code for the eye tracking part of the project. The code is written in Python and uses OpenCV for the image processing part. The code is divided into two parts: the first part is the calibration part, where the user is asked to look at a series of points on the screen, and the second part is the tracking part, where the user's eye movements are tracked in real-time.
+
 The foundation of our methodology rests on the utilization of an open source gaze recording tool called the Gaze Recorder. Here in the above files we use the tool using Gaze Cloud APIs and the gaze recorder itself will generate a rich dataset in the form of videos to videos with heat map overlay. These videos visually encapsulated the areas of heightened visual attention, marked by a dynamic circle illustrating the trajectory of users’ gaze points during their interaction with web content.
 
 You can use the GazeRecorder platform for creating experiments on Random websites that you want to and share the link to the experiment takers. The platform will record the gaze of the users and provide you with the data. And this is what we have done for our project as well, as it gives us a one stop platform for managing the data. 
