@@ -1,6 +1,9 @@
 # Gaze Recorder
-This is a gaze recorder that uses a webcam to record the user's gaze. The foundation of our methodology rested on the utilization of an open source gaze recording tool called the Gaze Recorder. Here in the above files we use the tool using Gaze Cloud APIs and the gaze recorder itself will generate a rich dataset in the form of videos to videos with heat map overlay. These videos visually encapsulated the areas of heightened visual attention, marked by a dynamic circle illustrating the trajectory of users’ gaze points during their interaction with web content.
+The foundation of our methodology rests on the utilization of an open source gaze recording tool called the Gaze Recorder. Here in the above files we use the tool using Gaze Cloud APIs and the gaze recorder itself will generate a rich dataset in the form of videos to videos with heat map overlay. These videos visually encapsulated the areas of heightened visual attention, marked by a dynamic circle illustrating the trajectory of users’ gaze points during their interaction with web content.
 
 You can use the GazeRecorder platform for creating experiments on Random websites that you want to and share the link to the experiment takers. The platform will record the gaze of the users and provide you with the data. And this is what we have done for our project as well, as it gives us a one stop platform for managing the data. 
 
 Alternatively, You can also use the above files including 3 javascript files which is part of the GazeRecorder APIs and a simple HTML file which acts as an interface for the user to interaact with any website that he is entering in the URL box. The GazeRecorder APIs will record the gaze of the user and provide you with the data.
+
+GazeRecorder Platform : https://gazerecorder.com/
+GazeCloud API Usage Reference: https://github.com/szydej/GazeRecorder
