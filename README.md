@@ -10,10 +10,10 @@ A high level visual representation of the overall architecture of the project is
 ![Architecture](Architecture_Diagram.png)
 
 # Contributors
-- **Akash S**
-- **Abinaya S**
-- **Aparna A**
-- **Dabburi Rajesh**
+- **Akash S** -  cb.en.u4cse20006@cb.students.amrita.edu 
+- **Abinaya S** -  cb.en.u4cse20002@cb.students.amrita.edu 
+- **Aparna A** -  cb.en.u4cse20008@cb.students.amrita.edu 
+- **Dabburi Rajesh** -  cb.en.u4cse20016@cb.students.amrita.edu 
 
 #### You can view the above project's results and analysis as a dashboard in the following links
 - https://fvb-vam-overall.streamlit.app/ - **For Overall Analysis**
