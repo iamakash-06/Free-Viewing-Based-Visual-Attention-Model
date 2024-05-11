@@ -5,5 +5,5 @@ You can use the GazeRecorder platform for creating experiments on Random website
 
 Alternatively, You can also use the above files including 3 javascript files which is part of the GazeRecorder APIs and a simple HTML file which acts as an interface for the user to interaact with any website that he is entering in the URL box. The GazeRecorder APIs will record the gaze of the user and provide you with the data.
 
-GazeRecorder Platform : https://gazerecorder.com/
-GazeCloud API Usage Reference: https://github.com/szydej/GazeRecorder
+###### GazeRecorder Platform : https://gazerecorder.com/
+###### GazeCloud API Usage Reference: https://github.com/szydej/GazeRecorder
